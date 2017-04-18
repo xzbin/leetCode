@@ -11,6 +11,7 @@ public class NumberComplement {
         int a = 5;
         int b = ~a;
         System.out.println( a +"  "+b);
+//hi .idea
 //        for (int i = 0; i < 32; i++) {
 //            System.out.print(a & 1);
 //            a = a >>> 1;
