@@ -6,12 +6,10 @@ import java.util.List;
  */
 public class FindAllNumbersDisappearedInAnArray {
     public List<Integer> findDisappearedNumbers(int[] nums) {
-
         return null;
     }
 
     public static void  main(String [] args){
-
 
     }
 }
