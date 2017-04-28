@@ -5,6 +5,7 @@ package cn.zhoubin.easy;
  */
 
 // 注意讲result 设置为大的范围。
+//    double  long
 
 public class ReverseInteger {
     public int reverse(int x) {
